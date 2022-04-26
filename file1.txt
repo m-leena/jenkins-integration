@@ -12,4 +12,13 @@ When every team member works from
 identically-provisioned environments, “Works on my machine!” stops being
  funny because it’s true (now it’s just funny).
 
-     
+Infrastructure as code:
+
+Developers create modular applications because they’re more reliable and maintainable. So why not extend that thinking to IT infrastructure? This can be difficult to apply to systems because they are always changing. So we get around that by using code for provisioning. 
+
+Infrastructure as code means re-provisioning is faster than repairing – and more consistent and reproducible. It also means you can easily spin up variations of your development environment with similar configuration as production. Provisioning code can be applied and reapplied to put a server into a known baseline. It can be stored in version control. It can be tested, incorporated into CI (continuous integration), and peer-reviewed. 
+
+When institutional knowledge is, well, codified in code, the need for run books and internal documentation fades. What emerges are repeatable processes, and reliable systems. 
+
+Bitbucket logo Github logo Gitlab logo
+
