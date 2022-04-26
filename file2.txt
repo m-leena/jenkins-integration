@@ -1,0 +1,30 @@
+CONTINUOUS INTEGRATION AND DELIVERY 
+
+
+Continuous integration:
+ 
+
+Continuous integration is the 
+practice of checking in code to a shared repository several times a day,
+ and testing it each time. That way, you automatically detect problems 
+early, fix them when they’re easiest to fix, and roll out new features 
+to your users as early as possible.
+
+ 
+
+Code review by pull-requests 
+requires branching and is all the rage. The DevOps North Star is a 
+workflow that results in fewer and faster branches and maintains testing
+ rigor without sacrificing development speed.
+
+ 
+
+Look for tools that
+ automatically apply your tests to development branches, and give you 
+the option to push to main when branch builds are successful. Along with
+ that, you get continuous feedback through real-time chat alerts from 
+your team with a simple integration.
+
+ 
+
+See how Bitbucket Pipelines helps you automate your code from test to production.
