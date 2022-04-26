@@ -28,3 +28,13 @@ your team with a simple integration.
  
 
 See how Bitbucket Pipelines helps you automate your code from test to production.
+
+
+
+Test:
+
+Testing tools span many needs and capabilities, including exploratory testing, test management, and orchestration. However, for the DevOps toolchain, automation is an essential function. Automated testing pays off over time by speeding up your development and testing cycles in the long run. And in a DevOps environment, it’s important for another reason: awareness.
+
+Test automation can increase software quality and reduce risk by doing it early and often. Development teams can execute automated tests repeatedly, covering several areas such as UI testing, security scanning, or load testing. They also yield reports and trend graphs that help identify risky areas.
+
+Risk is a fact of life in software development, but you can’t mitigate what you can’t anticipate. Do your operations team a favor and let them peek under the hood with you. Look for tools that support wallboards, and let everyone involved in the project comment on specific build or deployment results. Extra points for tools that make it easy to get Operations involved in blitz testing and exploratory testing.
