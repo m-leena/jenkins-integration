@@ -1,0 +1,15 @@
+Production-identical environments for development:
+ 
+
+While Puppet and Chef primarily benefit operations, developers use open source
+ tools like Kubernetes and Docker to provision individual development 
+environments. Coding against virtual, disposable replicas of production 
+helps you get more work done.
+
+ 
+
+When every team member works from 
+identically-provisioned environments, “Works on my machine!” stops being
+ funny because it’s true (now it’s just funny).
+
+     
